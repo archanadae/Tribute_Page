@@ -1,0 +1,55 @@
+body {
+    background-color: lightgrey; 
+  }
+  
+  #main {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Robonto';
+  }
+  
+  #title {
+    color: teal;
+    text-align: center;
+  }
+  
+  #timeline {
+    text-align: center;
+    color: teal;
+  }
+  
+  .img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  div img {
+    width: 100%;
+    height: auto;
+    margin: 10px auto;
+  }
+  
+  container figcaption {
+    text-align: center;
+    font-size: 15px;
+    color: green;
+  }
+  
+  ul {
+    display: block;
+    font-size: 18px;
+    list-style-type:none;
+  }
+  h3 {
+    color: black;
+  }
+  h4 {
+    color: grey;
+  }
+  
+  #author-quote {
+    margin: 2px;
+    padding: 2px 10px;
+    color: teal;
+  }
